@@ -1,0 +1,83 @@
+BANKA MÜŞTERİ HİZMETLERİ BİLGİ TABANI
+
+=== HESAP İŞLEMLERİ ===
+
+Hesap Açma:
+Bireysel vadesiz hesap açmak için kimlik belgesi (T.C. kimlik kartı veya pasaport) ve adres beyanı gereklidir. Hesap açma işlemi şubelerimizden veya mobil uygulamamız üzerinden yapılabilir. 18 yaşından küçükler için veli onayı gereklidir.
+
+Hesap İşletim Ücreti:
+Vadesiz mevduat hesapları için aylık hesap işletim ücreti 25 TL'dir. Maaş müşterilerimizden hesap işletim ücreti alınmaz. Öğrenci hesaplarında işletim ücreti uygulanmaz.
+
+Hesap Kapatma:
+Hesabınızı kapatmak için şubeye başvurmanız gerekmektedir. Hesapta bakiye varsa, kapatma işlemi öncesinde bakiyenin çekilmesi veya başka bir hesaba aktarılması gerekir.
+
+=== KREDİ KARTI ===
+
+Kredi Kartı Başvurusu:
+Kredi kartı başvurusu için 18 yaşını doldurmuş olmak, düzenli gelir belgesi sunmak ve kredi notu değerlendirmesinden geçmek gereklidir. Başvuru mobil uygulama, internet bankacılığı veya şube üzerinden yapılabilir. Başvuru sonucu genellikle 1-3 iş günü içinde bildirilir.
+
+Kredi Kartı Aidatı:
+Klasik kredi kartlarımızda yıllık aidat 350 TL'dir. Yılda 12 ve üzeri alışveriş yapan müşterilerimizin bir sonraki yıl aidatı alınmaz. Öğrenci kredi kartlarında aidat uygulanmaz.
+
+Kredi Kartı Limiti:
+Kredi kartı limiti, müşterinin gelir durumu ve kredi notu değerlendirilerek belirlenir. Limit artırım talebi mobil uygulama üzerinden yapılabilir ve genellikle 1-2 iş günü içinde sonuçlanır.
+
+Kayıp/Çalıntı Kart:
+Kartınız kaybolduğunda veya çalındığında derhal 0850 XXX XX XX numaralı müşteri hizmetleri hattımızı arayarak kartınızı bloke ettirmeniz gerekmektedir. Bloke işlemi sonrası yeni kartınız 5-7 iş günü içinde adresinize teslim edilir.
+
+=== KREDİLER ===
+
+İhtiyaç Kredisi:
+İhtiyaç kredisi başvurusu için düzenli gelir belgesi ve kimlik gereklidir. Kredi tutarı ve vadesi, gelir durumunuza göre belirlenir. Faiz oranları güncel piyasa koşullarına göre değişmektedir. Başvuru sonucu 1-2 iş günü içinde bildirilir.
+
+Konut Kredisi:
+Konut kredisi için ekspertiz raporu, tapu belgesi, gelir belgesi ve kimlik gereklidir. Kredi tutarı, konutun ekspertiz değerinin en fazla %80'i kadar olabilir. Vade en fazla 120 aydır.
+
+Kredi Erken Kapama:
+Kredinizi erken kapatmak istediğinizde kalan anapara üzerinden erken kapama işlemi yapılır. Erken ödeme durumunda mevzuata uygun şekilde erken ödeme indirimi uygulanır.
+
+=== DİJİTAL BANKACILIK ===
+
+Mobil Uygulama:
+Mobil bankacılık uygulamamız üzerinden para transferi, fatura ödeme, kredi kartı işlemleri, hesap özeti görüntüleme ve daha birçok işlem yapabilirsiniz. Uygulama App Store ve Google Play'den ücretsiz indirilebilir.
+
+İnternet Bankacılığı Şifresi:
+İnternet bankacılığı şifrenizi unuttuğunuzda mobil uygulama üzerinden veya şubelerimizden yeni şifre alabilirsiniz. Güvenliğiniz için şifrenizi kimseyle paylaşmayın.
+
+Para Transferi:
+Havale ve EFT işlemleri mobil uygulama ve internet bankacılığı üzerinden 7/24 yapılabilir. FAST sistemi ile anlık para transferi mümkündür. Transfer limitleri hesap tipinize göre değişmektedir.
+
+=== GÜVENLİK ===
+
+Dolandırıcılık:
+Bankamız hiçbir zaman telefon, SMS veya e-posta ile şifre, kart bilgisi veya doğrulama kodu talep etmez. Bu tür talepler dolandırıcılık girişimidir. Şüpheli bir durumda derhal müşteri hizmetlerimizi arayın.
+
+Çalışma Saatleri:
+Şubelerimiz hafta içi 09:00-17:00 saatleri arasında hizmet vermektedir. Müşteri hizmetleri hattımız 7/24 hizmetinizdedir. Dijital kanallarımız kesintisiz kullanılabilir.
+
+=== DÖVİZ İŞLEMLERİ ===
+
+Döviz Alım Satımı:
+Döviz alım satım işlemleri mobil uygulama, internet bankacılığı ve şubelerimiz üzerinden yapılabilir. Güncel döviz kurları uygulamamızda anlık olarak görüntülenebilir. Döviz hesabı açarak birikimlerinizi farklı para birimlerinde değerlendirebilirsiniz.
+
+Döviz Hesabı:
+Döviz hesabı açmak için mevcut bir müşterimiz olmanız ve kimlik belgenizle başvurmanız yeterlidir. USD, EUR ve GBP gibi başlıca para birimlerinde hesap açabilirsiniz. Döviz hesapları için işletim ücreti uygulanmamaktadır.
+
+=== YATIRIM ÜRÜNLERİ ===
+
+Vadeli Mevduat:
+Vadeli mevduat hesabı ile birikimlerinizi belirli bir vade boyunca değerlendirebilir ve faiz getirisi elde edebilirsiniz. Vade seçenekleri 1 ay, 3 ay, 6 ay ve 12 ay olarak sunulmaktadır. Faiz oranları güncel piyasa koşullarına göre belirlenir.
+
+Yatırım Fonları:
+Bankamız aracılığıyla çeşitli yatırım fonlarına yatırım yapabilirsiniz. Risk tercihlerinize uygun fon seçenekleri hakkında bilgi almak için şubelerimize başvurabilir veya yatırım danışmanlarımızla görüşebilirsiniz.
+
+Altın Hesabı:
+Altın hesabı ile fiziki altın taşımadan, gram altın alıp satabilirsiniz. Altın hesabınızdaki bakiyeyi dilediğiniz zaman nakde çevirebilirsiniz. İşlemler mobil uygulama üzerinden kolayca gerçekleştirilir.
+
+=== SİGORTA ===
+
+Bireysel Emeklilik (BES):
+Bireysel Emeklilik Sistemi ile geleceğiniz için düzenli birikim yapabilirsiniz. Devlet katkısından yararlanarak birikimlerinizi artırabilirsiniz. BES başvurusu şubelerimizden veya mobil uygulama üzerinden yapılabilir.
+
+Hayat Sigortası:
+Kredi kullanımlarınızda ve bireysel ihtiyaçlarınız için hayat sigortası ürünlerimizden faydalanabilirsiniz. Detaylı bilgi ve teklif için şubelerimize başvurabilirsiniz.
